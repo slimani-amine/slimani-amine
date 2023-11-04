@@ -1,10 +1,32 @@
-# Hi, I'm Mohamed Amine 👋 💻
+# Hi there, I'm Mohamed Amine 👋
 
-## A passionate Fullstack js developer from Tunisia
+I'm a passionate Fullstack js developer from Tunisia with a keen interest in Software engeneering . Welcome to my GitHub profile!
 
-Languages and Tools:
-## html5 css3 javascript nodejs mysql mongodb react jquery figma trello firebase git
-## Find me around the web 🌎: <a href="https://github.com/sponsors/M0nica"></a>
-- Learning in public on <a href="https://www.twitch.tc">Twitch</a>  ✍🏾
-- Tinkering with interactions on <a href="https://codepen.io"> Codepen</a> 🏓
-- Sharing updates on <a href="https://www.linkedin.com">LinkedIn</a> 💼
+## 🚀 About Me
+- 💻 I'm currently working on Sotyline Dev.
+- 💬 Ask me about anything, I am happy to help.
+
+## 🛠️ Skills
+- Languages: HTML5, CSS3, JavaScript
+- Libraries: React, jQuery
+- Runtimes: Node.js
+- Frameworks: Express, Next.js
+- Databases: MySQL, MongoDB
+- ORM's: Prisma, Sequelize
+- Tools: Figma, Trello, Firebase, Git
+
+## 🔭 Projects
+i will updated soon
+
+## 📫 How to reach me
+- [Email](mailto:slimaniamin76@gmail.com)
+- [LinkedIn](soon)
+
+## 🌐 My Website
+soon
+
+## ⚡ Fun Fact
+soon
+
+!slimani-amine(https://github-readme-stats.vercel.app/api?username=slimani-amine&show_icons=true)
+
