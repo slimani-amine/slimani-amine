@@ -12,11 +12,11 @@ I'm a passionate Fullstack JavaScript Developer from Tunisia with a keen interes
 - **Runtimes:** Node.js
 - **Frameworks:** Express, Next.js
 - **Databases:** MySQL, MongoDB
-- **ORM's:** Prisma, Sequelize
+- **ORMs:** Prisma, Sequelize
 - **Tools:** Figma, Trello, Firebase, Git
 
 ## 🔭 Projects
-- Will update soon
+- Updating soon
 
 ## 📫 How to reach me
 - [Email](mailto:slimaniamin76@gmail.com)
