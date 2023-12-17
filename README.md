@@ -20,7 +20,7 @@ I'm a passionate Fullstack JavaScript Developer from Tunisia with a keen interes
 
 ## 📫 How to reach me
 - [Email](mailto:slimaniamin76@gmail.com)
-- [LinkedIn](soon)
+- [LinkedIn](https://www.linkedin.com/in/med-amine-slimani-🚀🚀-b76756240/)
 
 ## 🌐 My Website
 - Coming soon
