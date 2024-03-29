@@ -25,7 +25,4 @@ I'm a passionate Fullstack JavaScript Developer from Tunisia with a keen interes
 ## 🌐 My Website
 - Coming soon
 
-## ⚡ Fun Fact
-- Coming soon
-
 ![Slimani-Amine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=slimani-amine&show_icons=true)
