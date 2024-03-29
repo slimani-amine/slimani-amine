@@ -11,7 +11,7 @@
 
 ## 🛠️ Skills
 - **Languages:** HTML5, CSS3, JavaScript
-- **Libraries:** React, jQuery
+- **Libraries:** React, ReactNative, jQuery
 - **Runtimes:** Node.js
 - **Frameworks:** Express, Next.js, NestJs 
 - **Databases:** MySQL,Postegres MongoDB
