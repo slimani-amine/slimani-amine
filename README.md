@@ -1,6 +1,11 @@
-# Hi there, I'm Mohamed Amine 👋
+<h1 align="center">Hi 👋, I'm Mohamed Amine Slimani</h1>
+<h3 align="center">a passionate Fullstack JavaScript Developer from Tunisia with a keen interest in Software Engineering. Welcome to my GitHub profile!</h3>
 
-I'm a passionate Fullstack JavaScript Developer from Tunisia with a keen interest in Software Engineering. Welcome to my GitHub profile!
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=slimani-amine&label=Profile%20views&color=0e75b6&style=flat" alt="slimani-amine" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=slimani-amine" alt="slimani-amine" /></a> </p>
+
+- 🔭 I’m currently working on [E-ditor](https://github.com/slimani-amine/editor.git)
 
 ## 🚀 About Me
 - 💻 Currently working on Sotyline Dev.
@@ -27,14 +32,7 @@ I'm a passionate Fullstack JavaScript Developer from Tunisia with a keen interes
 
 ![Slimani-Amine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=slimani-amine&show_icons=true)
 
-<h1 align="center">Hi 👋, I'm Mohamed Amine Slimani</h1>
-<h3 align="center">a passionate Fullstack JavaScript Developer from Tunisia with a keen interest in Software Engineering. Welcome to my GitHub profile!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=slimani-amine&label=Profile%20views&color=0e75b6&style=flat" alt="slimani-amine" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=slimani-amine" alt="slimani-amine" /></a> </p>
-
-- 🔭 I’m currently working on [E-ditor](https://github.com/slimani-amine/editor.git)
 
 - 👨‍💻 All of my projects are available at [ComingSoon ⚡️](ComingSoon ⚡️)
 
