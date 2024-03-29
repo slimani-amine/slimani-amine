@@ -35,4 +35,4 @@
 
 <p></p>
 
-<p align="left" ><a href="https://www.buymeacoffee.com/Buy me a Coffee"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy me a Coffee" /></a></p>
+<div align="right"  ><a href="https://www.buymeacoffee.com/Buy me a Coffee"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy me a Coffee" /></a></div>
