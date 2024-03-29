@@ -13,10 +13,10 @@
 - **Languages:** HTML5, CSS3, JavaScript
 - **Libraries:** React, jQuery
 - **Runtimes:** Node.js
-- **Frameworks:** Express, Next.js
-- **Databases:** MySQL, MongoDB
-- **ORMs:** Prisma, Sequelize
-- **Tools:** Figma, Trello, Firebase, Git
+- **Frameworks:** Express, Next.js, NestJs 
+- **Databases:** MySQL,Postegres MongoDB
+- **ORMs:** Prisma, Sequelize, TypeOrm
+- **Tools:** Figma, Trello, Firebase, Git, Docker
 
 ## 🔭 Projects
 - I’m currently working on [E-ditor](https://github.com/slimani-amine/editor.git)
