@@ -9,7 +9,6 @@
 ## 🚀 About Me
 - 💻 Currently working on Sotyline Dev.
 - 💬 Feel free to ask me about anything; I'm always happy to help.
-- 🔭 I’m currently working on [E-ditor](https://github.com/slimani-amine/editor.git)
 
 ## 🛠️ Skills
 - **Languages:** HTML5, CSS3, JavaScript
@@ -21,7 +20,7 @@
 - **Tools:** Figma, Trello, Firebase, Git
 
 ## 🔭 Projects
-- Updating soon
+- I’m currently working on [E-ditor](https://github.com/slimani-amine/editor.git)
 
 ## 📫 How to reach me
 <p align="left">
@@ -30,23 +29,7 @@
 <a href="https://discord.gg/slimanimedamin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="slimanimedamin" height="30" width="40" /></a>
 </p>
 
-## 🌐 My Website
-- Coming soon
-
 ![Slimani-Amine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=slimani-amine&show_icons=true)
-
-
-
-- 👨‍💻 All of my projects are available at [ComingSoon ⚡️](ComingSoon ⚡️)
-
-- 💬 Feel free to ask me about **anything; I'm always happy to help.**
-
-- 📫 How to reach me **mohamed.amine.slimani@horizon-tech.tn**
-
-- 📄 Know about my experiences [ComingSoon ⚡️](ComingSoon ⚡️)
-
-<h3 align="left">Connect with me:</h3>
-
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Buy me a Coffee"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy me a Coffee" /></a></p><br><br>
