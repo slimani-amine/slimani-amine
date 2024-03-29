@@ -23,7 +23,7 @@
 
 ## 📫 How to reach me
 <p align="left">
-<a href="https://linkedin.com/in/med amine slimani 🚀🚀" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="med amine slimani 🚀🚀" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/med-amine-slimani-🚀🚀-b76756240/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="med amine slimani 🚀🚀" height="30" width="40" /></a>
 <a href="https://fb.com/slimani med amine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="slimani med amine" height="30" width="40" /></a>
 <a href="https://instagram.com/slimani.mohamed.amine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="slimani.mohamed.amine" height="30" width="40" /></a>
 <a href="https://discord.gg/slimanimedamin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="slimanimedamin" height="30" width="40" /></a>
