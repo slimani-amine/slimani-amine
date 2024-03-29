@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=slimani-amine" alt="slimani-amine" /></a> </p>
 
-
 ## 🚀 About Me
 - 💻 Currently working on Sotyline Dev.
 - 💬 Feel free to ask me about anything; I'm always happy to help.
@@ -33,6 +32,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=slimani-amine&show_icons=true&locale=en&layout=compact" alt="slimani-amine" /></p>
 
-<p></p>
-
-<div align="right"  ><a href="https://www.buymeacoffee.com/Buy me a Coffee"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy me a Coffee" /></a></div>
+<p align="right">
+  <a href="https://www.buymeacoffee.com/slimaniamine">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy me a Coffee" />
+  </a>
+</p>
