@@ -29,13 +29,11 @@
 <a href="https://discord.gg/slimanimedamin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="slimanimedamin" height="30" width="40" /></a>
 </p>
 
-![Slimani-Amine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=slimani-amine&show_icons=true)
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/Buy me a Coffee"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy me a Coffee" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=slimani-amine&show_icons=true&locale=en&layout=compact" alt="slimani-amine" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=slimani-amine&show_icons=true&locale=en&layout=compact" alt="slimani-amine" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=slimani-amine&show_icons=true&locale=en" alt="slimani-amine" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=slimani-amine&" alt="slimani-amine" /></p>
+
+<br><br>
+<p align="right"><a href="https://www.buymeacoffee.com/Buy me a Coffee"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy me a Coffee" /></a></p>
