@@ -19,7 +19,7 @@
 - **Tools:** Figma, Trello, Firebase, Git, Docker
 
 ## 🔭 Projects
-- I’m currently working on [E-ditor](https://github.com/slimani-amine/editor.git)
+- I’m currently working on [Kotteb-tab]([https://github.com/slimani-amine/editor.git](https://chromewebstore.google.com/detail/kotteb-tab/dihopalpgofnpkfcldhehcgglegiideg))
 
 ## 📫 How to reach me
 <p align="left">
