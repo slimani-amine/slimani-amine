@@ -11,6 +11,7 @@
 
 ## 🚀 About Me
 - 💻 Currently working at **Sotyline Dev**.
+- 🌐 Check out my portfolio: [slimani.vercel.app](https://slimani.vercel.app/)
 - 💬 Feel free to ask me about anything; I'm always happy to help.
 
 ## 🛠️ Skills
@@ -30,7 +31,6 @@
 <a href="https://www.linkedin.com/in/med-amine-slimani/" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a>
-
 </p>
 
 ## 📊 GitHub Stats
