@@ -19,7 +19,7 @@
 - **Tools:** Figma, Trello, Firebase, Git, Docker
 
 ## 🔭 Projects
-- I’m currently working on [Kotteb-tab]([https://github.com/slimani-amine/editor.git](https://chromewebstore.google.com/detail/kotteb-tab/dihopalpgofnpkfcldhehcgglegiideg))
+- I’m currently working on <a href="[https://fb.com/slimani med amine](https://chromewebstore.google.com/detail/kotteb-tab/dihopalpgofnpkfcldhehcgglegiideg)" target="blank"> Kotteb tab</a>
 
 ## 📫 How to reach me
 <p align="left">
