@@ -27,18 +27,10 @@
 
 ## 📫 How to reach me:
 <p align="left">
-<a href="https://www.linkedin.com/in/med-amine-slimani-🚀🚀-b76756240/" target="_blank">
+<a href="[https://www.linkedin.com/in/med-amine-slimani-🚀🚀-b76756240/](https://www.linkedin.com/in/med-amine-slimani/)" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a>
-<a href="https://www.facebook.com/slimanimedamine" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-</a>
-<a href="https://instagram.com/slimani.mohamed.amine" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-</a>
-<a href="https://discord.gg/YOUR_DISCORD_INVITE" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
-</a>
+
 </p>
 
 ## 📊 GitHub Stats
