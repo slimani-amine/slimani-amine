@@ -24,7 +24,7 @@
 - **Tools:** Figma, Trello, Firebase, Git, Docker
 
 ## 🔭 Projects
-- I’m currently working on <a> Hannibal University</a>.
+- I’m currently working on <b> Hannibal University</b>.
 
 ## 📫 How to reach me:
 <p align="left">
