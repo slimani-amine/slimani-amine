@@ -24,7 +24,7 @@
 - **Tools:** Figma, Trello, Firebase, Git, Docker
 
 ## 🔭 Projects
-- I’m currently working on <a href="https://chromewebstore.google.com/detail/kotteb-tab/dihopalpgofnpkfcldhehcgglegiideg" target="_blank"> Kotteb Tab</a>.
+- I’m currently working on <a> Hannibal University</a>.
 
 ## 📫 How to reach me:
 <p align="left">
